@@ -64,11 +64,11 @@
           (white-on-black-base? . #f)
           (colors
            .
-           ((drracket:syncheck:matching-identifiers            ,base03)
+           ((drracket:syncheck:matching-identifiers            ,base05)
             (framework:basic-canvas-background                 ,base07)
             (framework:default-text-color                      ,base02)
             (framework:misspelled-text-color                   ,base08)
-            (framework:paren-match-color                       ,base05)
+            (framework:paren-match-color                       ,base06)
             (drracket:check-syntax:both-obligation-style-pref  ,base0F)
             (drracket:check-syntax:free-variable               ,base0E)
             (drracket:check-syntax:imported                    ,base0D)
